@@ -1,0 +1,16 @@
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.exe
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.deps.json
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.runtimeconfig.json
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.runtimeconfig.dev.json
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.dll
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ref\ЛР_2.2.dll
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\bin\Debug\net5.0\ЛР_2.2.pdb
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.csproj.AssemblyReference.cache
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.AssemblyInfoInputs.cache
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.AssemblyInfo.cs
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.csproj.CoreCompileInputs.cache
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.dll
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ref\ЛР_2.2.dll
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.pdb
+D:\БГТУ_ЛР\2 курс\ООП\ЛР_2\ЛР_2\ЛР_2.2\obj\Debug\net5.0\ЛР_2.2.genruntimeconfig.cache
